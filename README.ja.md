@@ -6,14 +6,15 @@
 
 - Datadog を使用した監視 PoC で、ダッシュボード設計・運用設計を担当
 - オンプレミス基盤から AWS への移行で、サーバの払い出しなどインフラ関連の初期セットアップを担当
-- VMware vCenter による仮想化基盤や、ストレージ（Amazon FSx for NetApp ONTAP）も扱っています（ストレージは学習中）
+- VMware vCenter による仮想化基盤や、ストレージ（Amazon FSx for NetApp ONTAP）、バックアップ（Veeam）も扱っています
 
 ## スキルセット
 
 | 分野 | 技術 |
 | --- | --- |
 | クラウド | AWS（Lambda / Batch / Fargate / Bedrock / DynamoDB / EventBridge Scheduler / S3 / ECR / IAM / CloudWatch） |
-| ストレージ | Amazon FSx for NetApp ONTAP（学習中） |
+| ストレージ | Amazon FSx for NetApp ONTAP |
+| バックアップ | Veeam |
 | 仮想化 | VMware vCenter |
 | IaC | Terraform |
 | 監視 | Datadog |

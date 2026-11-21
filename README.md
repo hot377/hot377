@@ -6,14 +6,15 @@ I'm an infrastructure engineer, mainly working on operations.
 
 - Designed dashboards and operational processes in a monitoring PoC using Datadog
 - Handled initial infrastructure setup, such as server provisioning, in a migration from on-premises to AWS
-- Also work with virtualization infrastructure on VMware vCenter and storage on Amazon FSx for NetApp ONTAP (still learning storage)
+- Also work with virtualization infrastructure on VMware vCenter, storage on Amazon FSx for NetApp ONTAP, and backup with Veeam
 
 ## Skills
 
 | Area | Technologies |
 | --- | --- |
 | Cloud | AWS (Lambda / Batch / Fargate / Bedrock / DynamoDB / EventBridge Scheduler / S3 / ECR / IAM / CloudWatch) |
-| Storage | Amazon FSx for NetApp ONTAP (learning) |
+| Storage | Amazon FSx for NetApp ONTAP |
+| Backup | Veeam |
 | Virtualization | VMware vCenter |
 | IaC | Terraform |
 | Monitoring | Datadog |
